@@ -1,0 +1,15 @@
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/bin/Debug/net7.0/RectangleCalculator
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/bin/Debug/net7.0/RectangleCalculator.deps.json
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/bin/Debug/net7.0/RectangleCalculator.runtimeconfig.json
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/bin/Debug/net7.0/RectangleCalculator.dll
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/bin/Debug/net7.0/RectangleCalculator.pdb
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.csproj.AssemblyReference.cache
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.AssemblyInfoInputs.cache
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.AssemblyInfo.cs
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.csproj.CoreCompileInputs.cache
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.dll
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/refint/RectangleCalculator.dll
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.pdb
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.genruntimeconfig.cache
+/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/ref/RectangleCalculator.dll
