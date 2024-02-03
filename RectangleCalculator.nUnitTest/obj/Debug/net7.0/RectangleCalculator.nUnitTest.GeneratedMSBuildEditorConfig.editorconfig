@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RectangleCalculator.nUnitTest
-build_property.ProjectDir = /Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator.nUnitTest/
+build_property.ProjectDir = C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator.nUnitTest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

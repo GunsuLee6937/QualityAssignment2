@@ -13,3 +13,18 @@
 /Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.pdb
 /Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/RectangleCalculator.genruntimeconfig.cache
 /Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/Debug/net7.0/ref/RectangleCalculator.dll
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\bin\Debug\net7.0\RectangleCalculator.exe
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\bin\Debug\net7.0\RectangleCalculator.deps.json
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\bin\Debug\net7.0\RectangleCalculator.runtimeconfig.json
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\bin\Debug\net7.0\RectangleCalculator.dll
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\bin\Debug\net7.0\RectangleCalculator.pdb
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.AssemblyInfoInputs.cache
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.AssemblyInfo.cs
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.csproj.CoreCompileInputs.cache
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.sourcelink.json
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.dll
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\refint\RectangleCalculator.dll
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.pdb
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\RectangleCalculator.genruntimeconfig.cache
+C:\Computer Application Dev\Semester 2\Software Quality\Assignment 2\QualityAssignment2\RectangleCalculator\obj\Debug\net7.0\ref\RectangleCalculator.dll

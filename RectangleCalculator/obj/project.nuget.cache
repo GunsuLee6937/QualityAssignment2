@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2L/BA1qBBEUCAoZcWTxhrSoK3KVC04i32WPndx5C6EggTODeHSUlF714ukoGA/fw5R/RbsS+qWkM6EiTidbzBA==",
+  "dgSpecHash": "R7pLwsocPfHAyLUizyzn1Za8qv+l0MSwxK/Tb8NHMXHke5R078B/sbIxC14ahEAdMIj5SUf8pyWEfmRIR8Cajg==",
   "success": true,
-  "projectFilePath": "/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/RectangleCalculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Computer Application Dev\\Semester 2\\Software Quality\\Assignment 2\\QualityAssignment2\\RectangleCalculator\\RectangleCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

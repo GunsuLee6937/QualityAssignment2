@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/RectangleCalculator.csproj": {}
+    "C:\\Computer Application Dev\\Semester 2\\Software Quality\\Assignment 2\\QualityAssignment2\\RectangleCalculator\\RectangleCalculator.csproj": {}
   },
   "projects": {
-    "/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/RectangleCalculator.csproj": {
+    "C:\\Computer Application Dev\\Semester 2\\Software Quality\\Assignment 2\\QualityAssignment2\\RectangleCalculator\\RectangleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/RectangleCalculator.csproj",
+        "projectUniqueName": "C:\\Computer Application Dev\\Semester 2\\Software Quality\\Assignment 2\\QualityAssignment2\\RectangleCalculator\\RectangleCalculator.csproj",
         "projectName": "RectangleCalculator",
-        "projectPath": "/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/RectangleCalculator.csproj",
-        "packagesPath": "/Users/gslee/.nuget/packages/",
-        "outputPath": "/Users/gslee/Documents/Conestoga/14_Quality/week4/assignment/RectangleCalculator/RectangleCalculator/obj/",
+        "projectPath": "C:\\Computer Application Dev\\Semester 2\\Software Quality\\Assignment 2\\QualityAssignment2\\RectangleCalculator\\RectangleCalculator.csproj",
+        "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
+        "outputPath": "C:\\Computer Application Dev\\Semester 2\\Software Quality\\Assignment 2\\QualityAssignment2\\RectangleCalculator\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/gslee/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,6 +38,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -49,12 +57,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
