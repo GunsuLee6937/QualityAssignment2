@@ -1,28 +1,60 @@
 ﻿namespace RectangleCalculator.nUnitTest;
 
-public class RectagleCalculatorTests
+public class RectangleCalculatorTests
 {
-    private Rectangle _rectangleCalculator { get; set; } = null;
     [SetUp]
     public void Setup()
     {
-        _rectangleCalculator = new Rectangle(10, 10);
+
     }
 
     [Test]
     public void GetLength_Test1()
     {
-        var rect = new Rectangle(10, 10);
-        var width = rect.GetLength();
-        Assert.AreEqual(10, width);
+        Rectangle rect = new Rectangle(10, 10);
+        int length = rect.GetLength();
+        Assert.AreEqual(10, length);
+    }
+
+    [Test]
+    public void GetLength_Test2()
+    {
+        Rectangle rect = new Rectangle(10, 10);
+        rect.SetLength(20);
+        int length = rect.GetLength();
+        Assert.AreEqual(20, length);
+    }
+
+    [Test]
+    public void GetLength_Test3()
+    {
+        Rectangle rect = new Rectangle();
+        int length = rect.GetLength();
+        Assert.AreEqual(1, length);
     }
 
     [Test]
     public void SetLength_Test1()
     {
-        var rect = new Rectangle(10, 10);
-        var width = rect.SetLength(20);
-        Assert.AreEqual(20, width);
+        Rectangle rect = new Rectangle(10, 10);
+        rect.SetLength(20);
+        Assert.AreEqual(20, rect.GetLength());
+    }
+
+    [Test]
+    public void SetLength_Test2()
+    {
+        Rectangle rect = new Rectangle(10, 10);
+        int length = rect.SetLength(20);
+        Assert.AreEqual(20, length);
+    }
+
+    [Test]
+    public void SetLength_Test3()
+    {
+        Rectangle rect = new Rectangle(10, 10);
+        int length =rect.SetLength(Int32.MaxValue);
+        Assert.AreEqual(Int32.MaxValue, length);
     }
 
     [Test]
@@ -34,6 +66,23 @@ public class RectagleCalculatorTests
     }
 
     [Test]
+    public void GetWidth_Test2()
+    {
+        Rectangle rect = new Rectangle(10, 10);
+        rect.SetWidth(20);
+        int width = rect.GetWidth();
+        Assert.AreEqual(20, width);
+    }
+
+    [Test]
+    public void GetWidth_Test3()
+    {
+        Rectangle rect = new Rectangle();
+        int width = rect.GetWidth();
+        Assert.AreEqual(1, width);
+    }
+
+    [Test]
     public void SetWidth_Test1()
     {
         var rect = new Rectangle(10, 10);
@@ -42,18 +91,66 @@ public class RectagleCalculatorTests
     }
 
     [Test]
+    public void SetWidth_Test2()
+    {
+        Rectangle rect = new Rectangle(10, 10);
+        int width = rect.SetWidth(20);
+        Assert.AreEqual(20, width);
+    }
+
+    [Test]
+    public void SetWidth_Test3()
+    {
+        Rectangle rect = new Rectangle(10, 10);
+        int width = rect.SetWidth(Int32.MaxValue);
+        Assert.AreEqual(Int32.MaxValue, width);
+    }
+
+    [Test]
     public void GetPerimeter_Test1()
     {
-        var rect = new Rectangle(10, 10);
-        var width = rect.GetPerimeter();
-        Assert.AreEqual(40, width);
+        Rectangle rect = new Rectangle(10, 10);
+        int perimeter = rect.GetPerimeter();
+        Assert.AreEqual(40, perimeter);
+    }
+
+    [Test]
+    public void GetPerimeter_Test2()
+    {
+        Rectangle rect = new Rectangle();
+        int perimeter = rect.GetPerimeter();
+        Assert.AreEqual(4, perimeter);
+    }
+
+    [Test]
+    public void GetPerimeter_Test3()
+    {
+        Rectangle rect = new Rectangle(5, 3);
+        int perimeter = rect.GetPerimeter();
+        Assert.AreEqual(16, perimeter);
     }
 
     [Test]
     public void GetArea_Test1()
     {
-        var rect = new Rectangle(10, 10);
-        var width = rect.GetArea();
-        Assert.AreEqual(100, width);
+        Rectangle rect = new Rectangle(10, 10);
+        int area = rect.GetArea();
+        Assert.AreEqual(100, area);
+    }
+
+    [Test]
+    public void GetArea_Test2()
+    {
+        Rectangle rect = new Rectangle();
+        int area = rect.GetArea();
+        Assert.AreEqual(1, area);
+    }
+
+    [Test]
+    public void GetArea_Test3()
+    {
+        Rectangle rect = new Rectangle(10000, 20000);
+        int area = rect.GetArea();
+        Assert.AreEqual(200000000, area);
     }
 }
